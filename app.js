@@ -1,0 +1,12 @@
+alert("Error! Please enter a valid name");
+alert("Welcome to js land...\n Happy Coading!");
+alert("Welcome to js land");
+alert("Happy Coading");
+alert("Hello..! i can run js through my browser");
+alert("John DOa");
+alert("15 year old");
+alert("certified mobiel application");
+alert("PIZZA \n PIZZ \n PIZ \n PI \n P");
+alert("example@example.com");
+alert("I am trying to learn java through smarter book easy to learn");
+alert("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”");
